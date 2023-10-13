@@ -142,40 +142,6 @@
         font-size: 14px;
     }
 }
-
-/*@media screen and (min-width: 375px) {
-    .container {
-        justify-content: left;
-    }
-    .sing-up {
-        width: 335px;
-    }
-    .photos-sing-up {
-        display: none;
-    }
-    .sing-up-button {
-        width: 335px;
-        height: 48px;
-    }
-    .input-sing-up {
-        padding: 14px 18px;
-        margin-bottom: 8px;
-    }
-    .textarea-sing-up {
-        height: 112px;
-        padding: 14px 18px;
-    }
-    .general-title {
-        font-size: 30px;
-        font-weight: 400;
-    }
-    .par-sing-up-first {
-        font-size: 14px;
-    }
-    .par-sing-up-second {
-        font-size: 14px;
-    }
-}*/
 @media screen and (min-width: 768px) {
     .sign-up {
         width: 480px;
